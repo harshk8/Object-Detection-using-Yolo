@@ -10,9 +10,9 @@ website for yolo detection.
 
 ## About folders and files
 
-###model_data subfolder
+### model_data subfolder
 coco_classes.txt contains the 80 classes.
-###yolo.h5
+### yolo.h5
 It is the h5 file generated to load the weights of the pretrained model without training.
 anchor_classes.txt -> the anchor boxes(5) with their coordinates.
 3. yad2k subfolder -> It contains the files for the basic yolo model.
