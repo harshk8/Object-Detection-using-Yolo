@@ -1,0 +1,7 @@
+label car 0.60 , Upper Left (925, 285) , Bottom Right (1045, 374) 
+label car 0.66 , Upper Left (706, 279) , Bottom Right (786, 350) 
+label bus 0.67 , Upper Left (5, 266) , Bottom Right (220, 407) 
+label car 0.70 , Upper Left (947, 324) , Bottom Right (1280, 705) 
+label car 0.74 , Upper Left (159, 303) , Bottom Right (346, 440) 
+label car 0.80 , Upper Left (761, 282) , Bottom Right (942, 412) 
+label car 0.89 , Upper Left (367, 300) , Bottom Right (745, 648) 
